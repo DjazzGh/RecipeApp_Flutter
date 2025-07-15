@@ -19,7 +19,7 @@ This Flutter application allows users to manage their favorite recipes, categori
 - Custom page transitions
 
 ## Screenshots
-<img src="screenshot.jpeg" alt="Screenshot" width="300"/>
+<img src="screenshot.jpeg" alt="Screenshot" width="300" height="600/>
 
 
 ## Demo Video
